@@ -1,0 +1,14 @@
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/obj/Debug/netcoreapp3.1/SchoolManagement.csproj.AssemblyReference.cache
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/obj/Debug/netcoreapp3.1/SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/obj/Debug/netcoreapp3.1/SchoolManagement.AssemblyInfoInputs.cache
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/obj/Debug/netcoreapp3.1/SchoolManagement.AssemblyInfo.cs
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/obj/Debug/netcoreapp3.1/SchoolManagement.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/bin/Debug/netcoreapp3.1/SchoolManagement
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/bin/Debug/netcoreapp3.1/SchoolManagement.deps.json
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/bin/Debug/netcoreapp3.1/SchoolManagement.runtimeconfig.json
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/bin/Debug/netcoreapp3.1/SchoolManagement.runtimeconfig.dev.json
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/bin/Debug/netcoreapp3.1/SchoolManagement.dll
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/bin/Debug/netcoreapp3.1/SchoolManagement.pdb
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/obj/Debug/netcoreapp3.1/SchoolManagement.dll
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/obj/Debug/netcoreapp3.1/SchoolManagement.pdb
+/Users/macbook/Projects/SchoolManagement/SchoolManagement/obj/Debug/netcoreapp3.1/SchoolManagement.genruntimeconfig.cache
